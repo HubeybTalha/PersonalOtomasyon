@@ -1,0 +1,15 @@
+C:\Users\Hubeyb Talha\source\repos\AV_Proje\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\PersonelOtomasyon.exe.config
+C:\Users\Hubeyb Talha\source\repos\AV_Proje\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\PersonelOtomasyon.exe
+C:\Users\Hubeyb Talha\source\repos\AV_Proje\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\PersonelOtomasyon.pdb
+C:\Users\Hubeyb Talha\source\repos\AV_Proje\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\System.Data.SQLite.dll
+C:\Users\Hubeyb Talha\source\repos\AV_Proje\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\System.Data.SQLite.xml
+C:\Users\Hubeyb Talha\source\repos\AV_Proje\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.csproj.AssemblyReference.cache
+C:\Users\Hubeyb Talha\source\repos\AV_Proje\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Hubeyb Talha\source\repos\AV_Proje\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.csproj.ResolveComReference.cache
+C:\Users\Hubeyb Talha\source\repos\AV_Proje\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.MainForm.resources
+C:\Users\Hubeyb Talha\source\repos\AV_Proje\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.Properties.Resources.resources
+C:\Users\Hubeyb Talha\source\repos\AV_Proje\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.csproj.GenerateResource.cache
+C:\Users\Hubeyb Talha\source\repos\AV_Proje\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Hubeyb Talha\source\repos\AV_Proje\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\Personel.04229D10.Up2Date
+C:\Users\Hubeyb Talha\source\repos\AV_Proje\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.exe
+C:\Users\Hubeyb Talha\source\repos\AV_Proje\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.pdb

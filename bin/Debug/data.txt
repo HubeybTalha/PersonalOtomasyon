@@ -1,0 +1,4 @@
+12345678912,Ali,Yılmaz,Çaycı,5000 Tl
+98765432198,Yasin,Güven,Muhasebeci,40000 Tl
+56789987651,Asaf,Güven,Patron,Sonsuz Tl
+23456789234,Hüda,Güven,Doktor,85000 Tl
